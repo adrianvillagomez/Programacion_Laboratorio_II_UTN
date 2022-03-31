@@ -1,0 +1,16 @@
+F:\FACULTAD\EjercicioA01\VistaProyeco\bin\Debug\net5.0\VistaProyeco.exe
+F:\FACULTAD\EjercicioA01\VistaProyeco\bin\Debug\net5.0\VistaProyeco.deps.json
+F:\FACULTAD\EjercicioA01\VistaProyeco\bin\Debug\net5.0\VistaProyeco.runtimeconfig.json
+F:\FACULTAD\EjercicioA01\VistaProyeco\bin\Debug\net5.0\VistaProyeco.runtimeconfig.dev.json
+F:\FACULTAD\EjercicioA01\VistaProyeco\bin\Debug\net5.0\VistaProyeco.dll
+F:\FACULTAD\EjercicioA01\VistaProyeco\bin\Debug\net5.0\VistaProyeco.pdb
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.csproj.AssemblyReference.cache
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.AssemblyInfoInputs.cache
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.AssemblyInfo.cs
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.csproj.CoreCompileInputs.cache
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.dll
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\refint\VistaProyeco.dll
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.pdb
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\VistaProyeco.genruntimeconfig.cache
+F:\FACULTAD\EjercicioA01\VistaProyeco\obj\Debug\net5.0\ref\VistaProyeco.dll

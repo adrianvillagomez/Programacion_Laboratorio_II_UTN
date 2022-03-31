@@ -1,0 +1,16 @@
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\bin\Debug\net5.0\Ejercicio103-LosPrimos.exe
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\bin\Debug\net5.0\Ejercicio103-LosPrimos.deps.json
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\bin\Debug\net5.0\Ejercicio103-LosPrimos.runtimeconfig.json
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\bin\Debug\net5.0\Ejercicio103-LosPrimos.runtimeconfig.dev.json
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\bin\Debug\net5.0\Ejercicio103-LosPrimos.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\bin\Debug\net5.0\Ejercicio103-LosPrimos.pdb
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.csproj.AssemblyReference.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.AssemblyInfoInputs.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.AssemblyInfo.cs
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\refint\Ejercicio103-LosPrimos.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.pdb
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\Ejercicio103-LosPrimos.genruntimeconfig.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio103-LosPrimos\obj\Debug\net5.0\ref\Ejercicio103-LosPrimos.dll

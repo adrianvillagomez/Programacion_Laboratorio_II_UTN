@@ -1,0 +1,12 @@
+F:\FACULTAD\EjercicioI06\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.deps.json
+F:\FACULTAD\EjercicioI06\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.dll
+F:\FACULTAD\EjercicioI06\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.pdb
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.AssemblyReference.cache
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfoInputs.cache
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfo.cs
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.dll
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\refint\LogicaNegocio.dll
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.pdb
+F:\FACULTAD\EjercicioI06\LogicaNegocio\obj\Debug\net5.0\ref\LogicaNegocio.dll

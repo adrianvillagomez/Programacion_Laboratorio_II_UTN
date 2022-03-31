@@ -1,0 +1,16 @@
+F:\FACULTAD\EjercicioI05\VistaAplicacion\bin\Debug\net5.0\VistaAplicacion.exe
+F:\FACULTAD\EjercicioI05\VistaAplicacion\bin\Debug\net5.0\VistaAplicacion.deps.json
+F:\FACULTAD\EjercicioI05\VistaAplicacion\bin\Debug\net5.0\VistaAplicacion.runtimeconfig.json
+F:\FACULTAD\EjercicioI05\VistaAplicacion\bin\Debug\net5.0\VistaAplicacion.runtimeconfig.dev.json
+F:\FACULTAD\EjercicioI05\VistaAplicacion\bin\Debug\net5.0\VistaAplicacion.dll
+F:\FACULTAD\EjercicioI05\VistaAplicacion\bin\Debug\net5.0\VistaAplicacion.pdb
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.csproj.AssemblyReference.cache
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.AssemblyInfoInputs.cache
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.AssemblyInfo.cs
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.csproj.CoreCompileInputs.cache
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.dll
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\refint\VistaAplicacion.dll
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.pdb
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\VistaAplicacion.genruntimeconfig.cache
+F:\FACULTAD\EjercicioI05\VistaAplicacion\obj\Debug\net5.0\ref\VistaAplicacion.dll

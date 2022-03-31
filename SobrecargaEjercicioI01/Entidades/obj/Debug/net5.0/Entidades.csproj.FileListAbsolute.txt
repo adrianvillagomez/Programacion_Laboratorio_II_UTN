@@ -1,0 +1,12 @@
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\bin\Debug\net5.0\Entidades.deps.json
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\bin\Debug\net5.0\Entidades.dll
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\bin\Debug\net5.0\Entidades.pdb
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.dll
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\Entidades.pdb
+F:\FACULTAD\SobrecargaEjercicioI01\Entidades\obj\Debug\net5.0\ref\Entidades.dll

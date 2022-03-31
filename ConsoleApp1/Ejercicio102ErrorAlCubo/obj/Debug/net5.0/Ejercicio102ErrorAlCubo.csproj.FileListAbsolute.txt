@@ -1,0 +1,16 @@
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\bin\Debug\net5.0\Ejercicio102ErrorAlCubo.exe
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\bin\Debug\net5.0\Ejercicio102ErrorAlCubo.deps.json
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\bin\Debug\net5.0\Ejercicio102ErrorAlCubo.runtimeconfig.json
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\bin\Debug\net5.0\Ejercicio102ErrorAlCubo.runtimeconfig.dev.json
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\bin\Debug\net5.0\Ejercicio102ErrorAlCubo.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\bin\Debug\net5.0\Ejercicio102ErrorAlCubo.pdb
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.csproj.AssemblyReference.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.AssemblyInfoInputs.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.AssemblyInfo.cs
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\refint\Ejercicio102ErrorAlCubo.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.pdb
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\Ejercicio102ErrorAlCubo.genruntimeconfig.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio102ErrorAlCubo\obj\Debug\net5.0\ref\Ejercicio102ErrorAlCubo.dll

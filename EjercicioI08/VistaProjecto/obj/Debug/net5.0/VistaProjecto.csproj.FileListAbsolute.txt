@@ -1,0 +1,16 @@
+F:\FACULTAD\EjercicioI08\VistaProjecto\bin\Debug\net5.0\VistaProjecto.exe
+F:\FACULTAD\EjercicioI08\VistaProjecto\bin\Debug\net5.0\VistaProjecto.deps.json
+F:\FACULTAD\EjercicioI08\VistaProjecto\bin\Debug\net5.0\VistaProjecto.runtimeconfig.json
+F:\FACULTAD\EjercicioI08\VistaProjecto\bin\Debug\net5.0\VistaProjecto.runtimeconfig.dev.json
+F:\FACULTAD\EjercicioI08\VistaProjecto\bin\Debug\net5.0\VistaProjecto.dll
+F:\FACULTAD\EjercicioI08\VistaProjecto\bin\Debug\net5.0\VistaProjecto.pdb
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.csproj.AssemblyReference.cache
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.AssemblyInfoInputs.cache
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.AssemblyInfo.cs
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.csproj.CoreCompileInputs.cache
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.dll
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\refint\VistaProjecto.dll
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.pdb
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\VistaProjecto.genruntimeconfig.cache
+F:\FACULTAD\EjercicioI08\VistaProjecto\obj\Debug\net5.0\ref\VistaProjecto.dll

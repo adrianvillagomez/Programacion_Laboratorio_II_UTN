@@ -1,0 +1,16 @@
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.exe
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.deps.json
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.runtimeconfig.json
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.runtimeconfig.dev.json
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.pdb
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.csproj.AssemblyReference.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.AssemblyInfoInputs.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.AssemblyInfo.cs
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\refint\Ejercicio_1.dll
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.pdb
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.genruntimeconfig.cache
+F:\FACULTAD\ConsoleApp1\Ejercicio_1\obj\Debug\net5.0\ref\Ejercicio_1.dll

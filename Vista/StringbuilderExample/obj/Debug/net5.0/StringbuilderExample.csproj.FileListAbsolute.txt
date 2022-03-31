@@ -1,0 +1,16 @@
+F:\FACULTAD\Vista\StringbuilderExample\bin\Debug\net5.0\StringbuilderExample.exe
+F:\FACULTAD\Vista\StringbuilderExample\bin\Debug\net5.0\StringbuilderExample.deps.json
+F:\FACULTAD\Vista\StringbuilderExample\bin\Debug\net5.0\StringbuilderExample.runtimeconfig.json
+F:\FACULTAD\Vista\StringbuilderExample\bin\Debug\net5.0\StringbuilderExample.runtimeconfig.dev.json
+F:\FACULTAD\Vista\StringbuilderExample\bin\Debug\net5.0\StringbuilderExample.dll
+F:\FACULTAD\Vista\StringbuilderExample\bin\Debug\net5.0\StringbuilderExample.pdb
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.csproj.AssemblyReference.cache
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.AssemblyInfoInputs.cache
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.AssemblyInfo.cs
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.csproj.CoreCompileInputs.cache
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.dll
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\refint\StringbuilderExample.dll
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.pdb
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\StringbuilderExample.genruntimeconfig.cache
+F:\FACULTAD\Vista\StringbuilderExample\obj\Debug\net5.0\ref\StringbuilderExample.dll
