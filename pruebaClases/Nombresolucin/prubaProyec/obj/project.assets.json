@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\FACULTAD\\pruebaclases\\prueba\\prueba.csproj",
-      "projectName": "prueba",
-      "projectPath": "F:\\FACULTAD\\pruebaclases\\prueba\\prueba.csproj",
+      "projectUniqueName": "F:\\FACULTAD\\pruebaClases\\Nombresolucin\\prubaProyec\\prubaProyec.csproj",
+      "projectName": "prubaProyec",
+      "projectPath": "F:\\FACULTAD\\pruebaClases\\Nombresolucin\\prubaProyec\\prubaProyec.csproj",
       "packagesPath": "C:\\Users\\adrian\\.nuget\\packages\\",
-      "outputPath": "F:\\FACULTAD\\pruebaclases\\prueba\\obj\\",
+      "outputPath": "F:\\FACULTAD\\pruebaClases\\Nombresolucin\\prubaProyec\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",

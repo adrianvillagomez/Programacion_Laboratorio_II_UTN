@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace prueba
+namespace prubaProyec
 {
     public class Class1
     {
