@@ -1,0 +1,12 @@
+F:\FACULTAD\POOI02\Entidad\bin\Debug\net5.0\Entidad.deps.json
+F:\FACULTAD\POOI02\Entidad\bin\Debug\net5.0\Entidad.dll
+F:\FACULTAD\POOI02\Entidad\bin\Debug\net5.0\Entidad.pdb
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.dll
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\refint\Entidad.dll
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\Entidad.pdb
+F:\FACULTAD\POOI02\Entidad\obj\Debug\net5.0\ref\Entidad.dll

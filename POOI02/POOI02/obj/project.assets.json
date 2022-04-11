@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Entidad/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidad/1.0.0": {
+      "type": "project",
+      "path": "../Entidad/Entidad.csproj",
+      "msbuildProject": "../Entidad/Entidad.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Entidad >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\adrian\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\FACULTAD\\POOI02\\POOI02\\POOI02.csproj",
+      "projectName": "POOI02",
+      "projectPath": "F:\\FACULTAD\\POOI02\\POOI02\\POOI02.csproj",
+      "packagesPath": "C:\\Users\\adrian\\.nuget\\packages\\",
+      "outputPath": "F:\\FACULTAD\\POOI02\\POOI02\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "F:\\FACULTAD\\POOI02\\Entidad\\Entidad.csproj": {
+              "projectPath": "F:\\FACULTAD\\POOI02\\Entidad\\Entidad.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POOI02/1.0.0": {
+        "dependencies": {
+          "Entidad": "1.0.0"
+        },
+        "runtime": {
+          "POOI02.dll": {}
+        }
+      },
+      "Entidad/1.0.0": {
+        "runtime": {
+          "Entidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POOI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

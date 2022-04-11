@@ -1,0 +1,16 @@
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\bin\Debug\net5.0\ColeccionesI01.exe
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\bin\Debug\net5.0\ColeccionesI01.deps.json
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\bin\Debug\net5.0\ColeccionesI01.runtimeconfig.json
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\bin\Debug\net5.0\ColeccionesI01.runtimeconfig.dev.json
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\bin\Debug\net5.0\ColeccionesI01.dll
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\bin\Debug\net5.0\ColeccionesI01.pdb
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.csproj.AssemblyReference.cache
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.AssemblyInfoInputs.cache
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.AssemblyInfo.cs
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.dll
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\refint\ColeccionesI01.dll
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.pdb
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ColeccionesI01.genruntimeconfig.cache
+F:\FACULTAD\ColeccionesI01\ColeccionesI01\obj\Debug\net5.0\ref\ColeccionesI01.dll

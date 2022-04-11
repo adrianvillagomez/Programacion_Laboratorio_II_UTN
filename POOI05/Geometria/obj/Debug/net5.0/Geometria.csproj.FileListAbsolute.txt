@@ -1,0 +1,12 @@
+F:\FACULTAD\POOI05\Geometria\bin\Debug\net5.0\Geometria.deps.json
+F:\FACULTAD\POOI05\Geometria\bin\Debug\net5.0\Geometria.dll
+F:\FACULTAD\POOI05\Geometria\bin\Debug\net5.0\Geometria.pdb
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.csproj.AssemblyReference.cache
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.dll
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\refint\Geometria.dll
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\Geometria.pdb
+F:\FACULTAD\POOI05\Geometria\obj\Debug\net5.0\ref\Geometria.dll

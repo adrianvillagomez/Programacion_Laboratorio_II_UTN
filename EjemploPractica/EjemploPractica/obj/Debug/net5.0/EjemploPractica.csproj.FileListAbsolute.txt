@@ -1,0 +1,16 @@
+F:\FACULTAD\EjemploPractica\EjemploPractica\bin\Debug\net5.0\EjemploPractica.exe
+F:\FACULTAD\EjemploPractica\EjemploPractica\bin\Debug\net5.0\EjemploPractica.deps.json
+F:\FACULTAD\EjemploPractica\EjemploPractica\bin\Debug\net5.0\EjemploPractica.runtimeconfig.json
+F:\FACULTAD\EjemploPractica\EjemploPractica\bin\Debug\net5.0\EjemploPractica.runtimeconfig.dev.json
+F:\FACULTAD\EjemploPractica\EjemploPractica\bin\Debug\net5.0\EjemploPractica.dll
+F:\FACULTAD\EjemploPractica\EjemploPractica\bin\Debug\net5.0\EjemploPractica.pdb
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.csproj.AssemblyReference.cache
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.AssemblyInfoInputs.cache
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.AssemblyInfo.cs
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.csproj.CoreCompileInputs.cache
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.dll
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\refint\EjemploPractica.dll
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.pdb
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\EjemploPractica.genruntimeconfig.cache
+F:\FACULTAD\EjemploPractica\EjemploPractica\obj\Debug\net5.0\ref\EjemploPractica.dll
