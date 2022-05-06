@@ -1,0 +1,12 @@
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\bin\Debug\net5.0\Villagomez.Adrian.2E.deps.json
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\bin\Debug\net5.0\Villagomez.Adrian.2E.dll
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\bin\Debug\net5.0\Villagomez.Adrian.2E.pdb
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.csproj.AssemblyReference.cache
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.AssemblyInfoInputs.cache
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.AssemblyInfo.cs
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.csproj.CoreCompileInputs.cache
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.dll
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\refint\Villagomez.Adrian.2E.dll
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\Villagomez.Adrian.2E.pdb
+F:\FACULTAD\Villagomez.Adrian.2E\Villagomez.Adrian.2E\obj\Debug\net5.0\ref\Villagomez.Adrian.2E.dll

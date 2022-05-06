@@ -1,0 +1,12 @@
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\bin\Debug\net5.0\ParcialDispositivos.deps.json
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\bin\Debug\net5.0\ParcialDispositivos.dll
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\bin\Debug\net5.0\ParcialDispositivos.pdb
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.csproj.AssemblyReference.cache
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.AssemblyInfoInputs.cache
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.AssemblyInfo.cs
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.dll
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\refint\ParcialDispositivos.dll
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ParcialDispositivos.pdb
+F:\FACULTAD\ParcialDispositivos\ParcialDispositivos\obj\Debug\net5.0\ref\ParcialDispositivos.dll

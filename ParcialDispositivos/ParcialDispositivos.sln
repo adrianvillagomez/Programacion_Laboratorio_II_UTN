@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialDispositivos", "ParcialDispositivos\ParcialDispositivos.csproj", "{AD0ECD28-A4D7-4E27-A37F-0D9B45233DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1FD47E96-9420-40EF-9BE5-CAD4E301CFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0ECD28-A4D7-4E27-A37F-0D9B45233DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0ECD28-A4D7-4E27-A37F-0D9B45233DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0ECD28-A4D7-4E27-A37F-0D9B45233DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0ECD28-A4D7-4E27-A37F-0D9B45233DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD47E96-9420-40EF-9BE5-CAD4E301CFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD47E96-9420-40EF-9BE5-CAD4E301CFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD47E96-9420-40EF-9BE5-CAD4E301CFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD47E96-9420-40EF-9BE5-CAD4E301CFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28413FF1-AA42-49B7-9A91-0329C7666638}
+	EndGlobalSection
+EndGlobal

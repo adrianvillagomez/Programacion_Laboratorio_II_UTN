@@ -1,0 +1,12 @@
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\bin\Debug\net5.0\ParcialAnimales.deps.json
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\bin\Debug\net5.0\ParcialAnimales.dll
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\bin\Debug\net5.0\ParcialAnimales.pdb
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.csproj.AssemblyReference.cache
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.AssemblyInfoInputs.cache
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.AssemblyInfo.cs
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.dll
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\refint\ParcialAnimales.dll
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ParcialAnimales.pdb
+F:\FACULTAD\ParcialAnimales\ParcialAnimales\obj\Debug\net5.0\ref\ParcialAnimales.dll

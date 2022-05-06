@@ -1,0 +1,12 @@
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\bin\Debug\net5.0\EncapsulamientoI01.deps.json
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\bin\Debug\net5.0\EncapsulamientoI01.dll
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\bin\Debug\net5.0\EncapsulamientoI01.pdb
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.csproj.AssemblyReference.cache
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.AssemblyInfoInputs.cache
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.AssemblyInfo.cs
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.csproj.CoreCompileInputs.cache
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.dll
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\refint\EncapsulamientoI01.dll
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\EncapsulamientoI01.pdb
+F:\FACULTAD\EncapsulamientoI01\EncapsulamientoI01\obj\Debug\net5.0\ref\EncapsulamientoI01.dll

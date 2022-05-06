@@ -1,0 +1,12 @@
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\bin\Debug\net5.0\ParcialLibreria.deps.json
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\bin\Debug\net5.0\ParcialLibreria.dll
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\bin\Debug\net5.0\ParcialLibreria.pdb
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.csproj.AssemblyReference.cache
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.AssemblyInfoInputs.cache
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.AssemblyInfo.cs
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.dll
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\refint\ParcialLibreria.dll
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ParcialLibreria.pdb
+F:\FACULTAD\ParcialLibreria\ParcialLibreria\obj\Debug\net5.0\ref\ParcialLibreria.dll

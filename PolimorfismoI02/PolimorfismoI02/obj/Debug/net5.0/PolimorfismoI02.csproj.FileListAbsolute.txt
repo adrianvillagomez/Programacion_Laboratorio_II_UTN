@@ -1,0 +1,12 @@
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\bin\Debug\net5.0\PolimorfismoI02.deps.json
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\bin\Debug\net5.0\PolimorfismoI02.dll
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\bin\Debug\net5.0\PolimorfismoI02.pdb
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.csproj.AssemblyReference.cache
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.AssemblyInfoInputs.cache
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.AssemblyInfo.cs
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.csproj.CoreCompileInputs.cache
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.dll
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\refint\PolimorfismoI02.dll
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\PolimorfismoI02.pdb
+F:\FACULTAD\PolimorfismoI02\PolimorfismoI02\obj\Debug\net5.0\ref\PolimorfismoI02.dll

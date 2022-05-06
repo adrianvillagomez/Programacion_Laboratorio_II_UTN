@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EncapsulamientoI01/1.0.0": {
+        "runtime": {
+          "EncapsulamientoI01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncapsulamientoI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

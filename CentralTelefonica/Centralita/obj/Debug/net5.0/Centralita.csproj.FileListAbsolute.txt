@@ -1,0 +1,12 @@
+F:\FACULTAD\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.deps.json
+F:\FACULTAD\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.dll
+F:\FACULTAD\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.pdb
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.dll
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\refint\Centralita.dll
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.pdb
+F:\FACULTAD\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\Centralita.dll

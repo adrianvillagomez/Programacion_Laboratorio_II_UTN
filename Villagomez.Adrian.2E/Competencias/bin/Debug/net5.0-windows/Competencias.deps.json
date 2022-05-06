@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Competencias/1.0.0": {
+        "dependencies": {
+          "Villagomez.Adrian.2E": "1.0.0"
+        },
+        "runtime": {
+          "Competencias.dll": {}
+        }
+      },
+      "Villagomez.Adrian.2E/1.0.0": {
+        "runtime": {
+          "Villagomez.Adrian.2E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Competencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Villagomez.Adrian.2E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
