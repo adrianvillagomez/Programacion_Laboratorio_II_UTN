@@ -1,0 +1,50 @@
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.exe
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.deps.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.runtimeconfig.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.runtimeconfig.dev.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Entidades.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Entidades.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.CopyComplete
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\refint\Clase17-SQL.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.genruntimeconfig.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\ref\Clase17-SQL.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.exe
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.deps.json
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.runtimeconfig.json
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.runtimeconfig.dev.json
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Clase17-SQL.pdb
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Entidades.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\bin\Debug\net5.0\Entidades.pdb
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.AssemblyReference.cache
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.AssemblyInfoInputs.cache
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.AssemblyInfo.cs
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.CoreCompileInputs.cache
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.CopyComplete
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\refint\Clase17-SQL.dll
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.pdb
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.genruntimeconfig.cache
+F:\FACULTAD\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\ref\Clase17-SQL.dll

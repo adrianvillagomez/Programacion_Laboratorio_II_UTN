@@ -1,0 +1,12 @@
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\bin\Debug\net5.0\ConexionBasesDatosI01.deps.json
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\bin\Debug\net5.0\ConexionBasesDatosI01.dll
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\bin\Debug\net5.0\ConexionBasesDatosI01.pdb
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.csproj.AssemblyReference.cache
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.AssemblyInfoInputs.cache
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.AssemblyInfo.cs
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.csproj.CoreCompileInputs.cache
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.dll
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\refint\ConexionBasesDatosI01.dll
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ConexionBasesDatosI01.pdb
+F:\FACULTAD\ConexionBasesDatosI01\ConexionBasesDatosI01\obj\Debug\net5.0\ref\ConexionBasesDatosI01.dll

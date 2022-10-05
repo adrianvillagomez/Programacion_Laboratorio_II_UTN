@@ -1,0 +1,11 @@
+Interfaces
+https://www.youtube.com/watch?v=dQpT8Qm1N9A
+
+Clases Abstractas
+https://www.youtube.com/watch?v=SzOPDOZ-5x4
+
+Polimorfismo
+https://www.youtube.com/watch?v=lVhuzTEhzn0
+
+Casting
+https://www.youtube.com/watch?v=EJrECHK_kL4

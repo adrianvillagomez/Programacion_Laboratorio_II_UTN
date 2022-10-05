@@ -1,0 +1,32 @@
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.exe
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.deps.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.runtimeconfig.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.runtimeconfig.dev.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\refint\Clase19-Task.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.genruntimeconfig.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\Clase19-Task\obj\Debug\net5.0\ref\Clase19-Task.dll
+F:\FACULTAD\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.exe
+F:\FACULTAD\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.deps.json
+F:\FACULTAD\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.runtimeconfig.json
+F:\FACULTAD\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.runtimeconfig.dev.json
+F:\FACULTAD\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.dll
+F:\FACULTAD\Clase19-Task\Clase19-Task\bin\Debug\net5.0\Clase19-Task.pdb
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.csproj.AssemblyReference.cache
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.AssemblyInfoInputs.cache
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.AssemblyInfo.cs
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.csproj.CoreCompileInputs.cache
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.dll
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\refint\Clase19-Task.dll
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.pdb
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\Clase19-Task.genruntimeconfig.cache
+F:\FACULTAD\Clase19-Task\Clase19-Task\obj\Debug\net5.0\ref\Clase19-Task.dll

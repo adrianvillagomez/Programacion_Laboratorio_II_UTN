@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Local : Llamada
+    public class Local : Llamada,IGuardar<Local>
     {
         protected float costo;
         public Local(string Origen, string destino, float duracion, float costo) : base(duracion, destino, Origen)
@@ -24,6 +24,9 @@ namespace Entidades
                return  this.CalcularCosto();
             }
         }
+
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         private float CalcularCosto()
         {
             float CostoLlamada = this.costo * base.Duracion;
@@ -45,6 +48,16 @@ namespace Entidades
         {
             //return obj.GetType() == this.GetType();
             return (obj is Local);
+        }
+
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Local leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }

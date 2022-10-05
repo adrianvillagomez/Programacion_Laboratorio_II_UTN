@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class CentralitaII
+    public class CentralitaII :IGuardar<String>
     {
         public List<Llamada> listaDeLlamadas;
         protected string razonSocial;
@@ -14,7 +15,7 @@ namespace Entidades
         {
             this.listaDeLlamadas = new List<Llamada>();
         }
-        public CentralitaII(string nombreEmpresa) : this()// sujeto a modificacion
+        public CentralitaII(string nombreEmpresa) : this()
         {
             this.razonSocial = nombreEmpresa;
         }
@@ -47,6 +48,9 @@ namespace Entidades
                 return this.listaDeLlamadas;
             }
         }
+
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         private float CalcularGanancia(TipoLLamada tipo)
         {
             float acumulador = 0;
@@ -94,6 +98,45 @@ namespace Entidades
         {
             this.listaDeLlamadas.Add(nuevaLlamada);
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        /// <exception cref="FallaLogException"></exception>
+        public bool Guardar()
+        {
+            string mensaje = $"{DateTime.Now.DayOfWeek} {DateTime.Now.Day} de {DateTime.Now.Month} de {DateTime.Now.Year} - {DateTime.Now.Hour}:{DateTime.Now.Minute}:{DateTime.Now.Second}:{DateTime.Now.Millisecond} - Se realizo una llamada.";
+            try
+            {
+                using(StreamWriter guardar = new StreamWriter("bitacora.txt"))
+                {
+                    guardar.WriteLine(mensaje);
+                    return true;
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw new FallaLogException("error en guardar",ex);
+            }
+        }
+
+        public string leer()
+        {
+            try
+            {
+                using(StreamReader leer = new StreamReader("bitacora.txt"))
+                {
+                    return leer.ReadToEnd();
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw new FallaLogException("error en Leer", ex);
+            }          
+        }
+
         public static bool operator ==(CentralitaII c ,Llamada llamada)
         {
             foreach(Llamada item in c.listaDeLlamadas)
@@ -109,14 +152,35 @@ namespace Entidades
         {
             return !(c == llamada);
         }
+        /// <summary>
+        /// Agrega una llamada existente a mi lista central
+        /// </summary>
+        /// <param name="c"></param>
+        /// <param name="nuevaLlamada"></param>
+        /// <returns></returns>
+        /// <exception cref="CentralitaException"></exception>
         public static CentralitaII operator +(CentralitaII c,Llamada nuevaLlamada)
-        {
-            foreach (Llamada item in c.listaDeLlamadas)
+        {        
+            if (!(c is null) && !(nuevaLlamada is null))
             {
-                if (nuevaLlamada != item)
+                if (c != nuevaLlamada)
                 {
-                    c.AgregarLlamada(nuevaLlamada);
-                    return c;
+                    if ((nuevaLlamada is Local) || (nuevaLlamada is Provincial))
+                    {
+                        c.AgregarLlamada(nuevaLlamada);
+                        try
+                        {
+                            c.Guardar();
+                        }
+                        catch (FallaLogException ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                    }
+                }
+                else
+                {
+                    throw new CentralitaException("Llamada existente", "Centralita", "Agregar llamada a Centralita");
                 }
             }
             return c;

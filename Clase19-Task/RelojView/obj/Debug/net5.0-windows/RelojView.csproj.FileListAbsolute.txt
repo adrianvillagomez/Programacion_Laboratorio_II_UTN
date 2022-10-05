@@ -1,0 +1,36 @@
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.exe
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.deps.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.runtimeconfig.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.runtimeconfig.dev.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.FrmView.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.csproj.GenerateResource.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\refint\RelojView.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.genruntimeconfig.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase19-Task\RelojView\obj\Debug\net5.0-windows\ref\RelojView.dll
+F:\FACULTAD\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.exe
+F:\FACULTAD\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.deps.json
+F:\FACULTAD\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.runtimeconfig.json
+F:\FACULTAD\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.runtimeconfig.dev.json
+F:\FACULTAD\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.dll
+F:\FACULTAD\Clase19-Task\RelojView\bin\Debug\net5.0-windows\RelojView.pdb
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.csproj.AssemblyReference.cache
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.FrmView.resources
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.csproj.GenerateResource.cache
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.AssemblyInfoInputs.cache
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.AssemblyInfo.cs
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.csproj.CoreCompileInputs.cache
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.dll
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\refint\RelojView.dll
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.pdb
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\RelojView.genruntimeconfig.cache
+F:\FACULTAD\Clase19-Task\RelojView\obj\Debug\net5.0-windows\ref\RelojView.dll

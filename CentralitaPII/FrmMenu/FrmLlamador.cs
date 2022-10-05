@@ -113,18 +113,34 @@ namespace FrmMenu
             duracion = random.Next(1, 51);
             if (txtNroDestino.Text.StartsWith("#"))
             {
-                Provincial myProvinceCall = new Provincial(txtNroOrigen.Text, (Franja)cmbFranja.SelectedItem, duracion, txtNroDestino.Text);
-                //centralitaLlamador += myProvinceCall;
-                centralitaLlamador.listaDeLlamadas.Add(myProvinceCall);
-                MessageBox.Show("Llamada Provincial Generada con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                try
+                {
+                    Provincial provincial = new Provincial(txtNroOrigen.Text, (Franja)cmbFranja.SelectedItem, duracion, txtNroDestino.Text);
+                    centralitaLlamador += provincial;
+                    MessageBox.Show("Llamada Provincial Generada con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                }             
+                catch (CentralitaException ex )
+                {
+                    FrmExp excepcion = new FrmExp(ex);                   
+                    MessageBox.Show($"Error: Exception.", "Exception", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    excepcion.ShowDialog();
+                }
             }
             else
             {
-                costos = (random.Next(5, 56) / 10);
-                Local myLocalCall = new Local(txtNroOrigen.Text, txtNroDestino.Text, duracion,costos);
-                //centralitaLlamador += myLocalCall;
-                centralitaLlamador.listaDeLlamadas.Add(myLocalCall);
-                MessageBox.Show("Llamada Local Generada con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                try
+                {
+                    costos = (random.Next(5, 56) / 10);
+                    Local local = new Local(txtNroOrigen.Text, txtNroDestino.Text, duracion, costos);
+                    centralitaLlamador += local;
+                    MessageBox.Show("Llamada Local Generada con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                }
+                catch (CentralitaException ex)
+                {
+                    FrmExp excepcion = new FrmExp(ex);
+                    MessageBox.Show($"Error: Exception.", "Exception", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    excepcion.ShowDialog();
+                }
             }
             btnLimpiar_Click(sender, e);
 

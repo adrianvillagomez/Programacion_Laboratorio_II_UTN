@@ -18,19 +18,20 @@ namespace CentralitaPII
             Provincial l2 = new Provincial("Morón",Franja.Franja_1, 21, "Bernal");
             Local l3 = new Local("Lanús", "San Rafael", 3, 2);
             Provincial l4 = new Provincial("Boedo",Franja.Franja_1, 10, "Caseros");
-            //Provincial l4 = new Provincial(Provincial.Franja.Franja_3, l2);
+           
 
-            //c += l1;
-            c.Llamadas.Add(l1);
-            //Console.WriteLine(c.ToString());
+            c += l1;
+            Console.WriteLine(c.leer());
             c +=l2;
-            //Console.WriteLine(c.Mostrar());
+            Console.WriteLine(c.leer());
             c += l3;
-            //Console.WriteLine(c.Mostrar());
+  
             c += l4;
 
            c.OrdenarLlamadas();
            Console.WriteLine(c.ToString());
+            Console.WriteLine(c.leer());
+            
         }
     }
 }

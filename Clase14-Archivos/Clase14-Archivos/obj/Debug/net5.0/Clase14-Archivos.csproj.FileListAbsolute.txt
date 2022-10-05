@@ -1,0 +1,38 @@
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.exe
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.deps.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.runtimeconfig.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.runtimeconfig.dev.json
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Entidades.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Entidades.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.csproj.CopyComplete
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\refint\Clase14-Archivos.dll
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.pdb
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.genruntimeconfig.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Clase\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\ref\Clase14-Archivos.dll
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.exe
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.deps.json
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.runtimeconfig.json
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.runtimeconfig.dev.json
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.dll
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Clase14-Archivos.pdb
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Entidades.dll
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\bin\Debug\net5.0\Entidades.pdb
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.csproj.AssemblyReference.cache
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.AssemblyInfoInputs.cache
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.AssemblyInfo.cs
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.csproj.CoreCompileInputs.cache
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.csproj.CopyComplete
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.dll
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\refint\Clase14-Archivos.dll
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.pdb
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\Clase14-Archivos.genruntimeconfig.cache
+F:\FACULTAD\Clase14-Archivos\Clase14-Archivos\obj\Debug\net5.0\ref\Clase14-Archivos.dll

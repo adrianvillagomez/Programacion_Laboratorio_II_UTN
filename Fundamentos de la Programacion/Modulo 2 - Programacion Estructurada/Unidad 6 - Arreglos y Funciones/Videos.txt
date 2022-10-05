@@ -1,0 +1,17 @@
+Vectores
+https://www.youtube.com/watch?v=Krta9zaBzEg
+
+Matrices
+https://www.youtube.com/watch?v=KGXUq0Cjesw
+
+Intr. a Funciones
+https://www.youtube.com/watch?v=-IhvXy3Wcmc
+
+Variables Locales/Globales
+https://www.youtube.com/watch?v=-qJjb147Qcw
+
+Funciones con Parametros
+https://www.youtube.com/watch?v=TJap02zLeWM
+
+Funciones con Retorno
+https://www.youtube.com/watch?v=Cbb1NRgiBdA

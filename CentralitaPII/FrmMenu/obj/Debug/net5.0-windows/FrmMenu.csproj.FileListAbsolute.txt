@@ -44,3 +44,4 @@ F:\FACULTAD\CentralitaPII\FrmMenu\obj\Debug\net5.0-windows\refint\FrmMenu.dll
 F:\FACULTAD\CentralitaPII\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.pdb
 F:\FACULTAD\CentralitaPII\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.genruntimeconfig.cache
 F:\FACULTAD\CentralitaPII\FrmMenu\obj\Debug\net5.0-windows\ref\FrmMenu.dll
+F:\FACULTAD\CentralitaPII\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmExp.resources

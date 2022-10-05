@@ -10,7 +10,7 @@ namespace Entidades
     {
         Franja_1, Franja_2, Franja_3
     }
-    public class Provincial : Llamada
+    public class Provincial : Llamada,IGuardar<Provincial>
     {     
         protected Franja franjaHoraria;
         public Provincial(string Origen, Franja miFranja, float duracion, string destino) : base(duracion, destino, Origen)//modificado
@@ -28,6 +28,9 @@ namespace Entidades
                 return CalcularCosto();
             }
         }
+
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         private float CalcularCosto()
         {
             float CostoLLamada;
@@ -61,6 +64,16 @@ namespace Entidades
         public override bool Equals(object obj)
         {
             return obj is Provincial;
+        }
+
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Provincial leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }
